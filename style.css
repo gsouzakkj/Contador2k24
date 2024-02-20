@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+:root{
+    --cor-de-fundo: #0d4442;
+    --ciano: #c4f5f6;
+    --branco: #fbf9f9;
+    --botao-ativo: #4191ae;
+    --botao-inativo: #6b7978;
+    --texto-fundo: #d8f4f2;
+}
